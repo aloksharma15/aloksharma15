@@ -1,4 +1,4 @@
-![MasterHead](https://github.blog/wp-content/uploads/2024/02/AI-DarkMode-3-1.png?fit=1200%2C630)
+![MasterHead](https://checkmarx.com/wp-content/uploads/2022/08/thumbnail.png)
 <h1 align="center">Hi 👋, I'm Alok Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://giphy.com/gifs/wLNuW1tCKRiPmDV5Y4”>
